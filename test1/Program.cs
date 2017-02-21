@@ -8,6 +8,7 @@ namespace test1
 {
     static class Program
     {
+        public static System.Threading.Mutex _mutex;
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
         /// </summary>
